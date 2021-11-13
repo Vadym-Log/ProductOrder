@@ -1,0 +1,9 @@
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\bin\Debug\Vadym-Logvynenko_Exercise01.exe.config
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\bin\Debug\Vadym-Logvynenko_Exercise01.exe
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\bin\Debug\Vadym-Logvynenko_Exercise01.pdb
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\obj\Debug\Vadym-Logvynenko_Exercise01.csprojResolveAssemblyReference.cache
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\obj\Debug\Vadym_Logvynenko_Exercise01.frmOrder.resources
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\obj\Debug\Vadym_Logvynenko_Exercise01.Properties.Resources.resources
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\obj\Debug\Vadym-Logvynenko_Exercise01.csproj.GenerateResource.Cache
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\obj\Debug\Vadym-Logvynenko_Exercise01.exe
+C:\Users\300760821\Downloads\Vadym-Logvynenko_Sec004_COMP123_Final-term\Vadym-Logvynenko_Exercise01\obj\Debug\Vadym-Logvynenko_Exercise01.pdb
